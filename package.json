@@ -11,12 +11,9 @@
     "url": "git+https://github.com/yangyanzhan/ai.js.git"
   },
   "keywords": [
-    "machine",
-    "learning",
-    "data",
-    "mining",
-    "artificial",
-    "intelligence"
+    "machine learning",
+    "data mining",
+    "artificial intelligence"
   ],
   "author": "yangyanzhan",
   "license": "ISC",
